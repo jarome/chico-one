@@ -1,6 +1,8 @@
-@import '../../src/css/reset.css';
+@import '../../src/css/normalize.css';
 @import 'layout.css';
+@import 'logo.css';
 
 body {
-  background-color: red;
+  background-color: #FFFFFF;
+  color: #000000;
 }

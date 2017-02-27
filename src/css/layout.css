@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+}
+.wrapper, .content {
+  height: 100%
+}
+
+.content {
+  display: flex;
+  align-items: center;
+}
+
+.header, .footer {
+  text-align: center;
+  width: 100%;
+  position: fixed;
+}
+
+.header {
+  top: 40px;
+}
+
+.footer {
+  bottom: 40px;
+}
