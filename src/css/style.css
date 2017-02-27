@@ -1,0 +1,6 @@
+@import '../../src/css/reset.css';
+@import 'layout.css';
+
+body {
+  background-color: red;
+}
